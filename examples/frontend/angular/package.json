@@ -61,7 +61,7 @@
     "jest-preset-angular": "~17.0.2",
     "jsonc-eslint-parser": "^3.2.0",
     "nx": "23.2.1",
-    "prettier": "^3.9.6",
+    "prettier": "^3.9.10",
     "ts-node": "~10.9.2",
     "typescript": "~6.0.3",
     "typescript-eslint": "^8.70.1"
