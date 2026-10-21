@@ -17,11 +17,11 @@
   },
   "private": true,
   "dependencies": {
-    "@angular/common": "~22.2.2",
-    "@angular/compiler": "~22.2.2",
-    "@angular/core": "~22.2.2",
-    "@angular/forms": "~22.2.2",
-    "@angular/platform-browser": "~22.2.2",
+    "@angular/common": "~22.2.3",
+    "@angular/compiler": "~22.2.3",
+    "@angular/core": "~22.2.3",
+    "@angular/forms": "~22.2.3",
+    "@angular/platform-browser": "~22.2.3",
     "@angular/router": "~22.2.3",
     "@nx/angular": "23.2.1",
     "casper-rust-wasm-sdk": "file:../../../pkg",
@@ -33,11 +33,11 @@
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "~22.2.3",
-    "@angular-devkit/core": "~22.2.2",
-    "@angular-devkit/schematics": "~22.2.2",
-    "@angular/cli": "~22.2.2",
-    "@angular/compiler-cli": "~22.2.2",
-    "@angular/language-service": "~22.2.2",
+    "@angular-devkit/core": "~22.2.3",
+    "@angular-devkit/schematics": "~22.2.3",
+    "@angular/cli": "~22.2.3",
+    "@angular/compiler-cli": "~22.2.3",
+    "@angular/language-service": "~22.2.3",
     "@nx/eslint-plugin": "23.2.1",
     "@nx/jest": "23.2.1",
     "@nx/js": "23.2.1",
@@ -96,6 +96,8 @@
     "nanoid": "^3.3.18",
     "fast-uri": "^3.1.6",
     "qs": "6.16.0",
-    "handlebars": "4.7.10"
+    "handlebars": "4.7.10",
+    "follow-redirects": "1.16.1",
+    "vite": "8.3.5"
   }
 }
